@@ -1,3 +1,6 @@
+Copy of Mohit Arora's code to manage docker containers
+https://medium.com/@mohitarora/manage-docker-containers-using-coreos-part-4-b292841c207f
+
 # Build Docker image by [Packer](http://www.packer.io/)
 
 ## How to run
